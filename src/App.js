@@ -1,4 +1,4 @@
-
+import Homepage from "./pages/hompage";
 
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-  hello
+  <Homepage/>
    
       </header>
     </div>
